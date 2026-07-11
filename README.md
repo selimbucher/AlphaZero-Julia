@@ -6,7 +6,8 @@
 
 An AlphaZero-style engine (self-play deep RL + Monte Carlo Tree Search) built **from
 scratch in Julia**, playing Connect Four on a single home PC with one NVIDIA GPU.
-Written as my matura thesis (Oct 2023, before AI coding assistants were useful) —
+Written as my matura thesis — the Swiss high-school diploma thesis — in Oct 2023,
+before AI coding assistants were useful —
 [thesis PDF, German](https://slimmer.ch/AlphaZero-Julia.pdf).
 
 ## The interesting part: fighting the CPU→GPU bottleneck
